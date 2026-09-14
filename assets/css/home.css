@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    width: 100%;
+    height: 100vh;
+    background: #333;
+}
+
+header{
+    width: 100%;
+    height: 21vh;
+    background: #000;
+}
+
+.game{
+    width: 100%;
+    height: 35vh;
+    background: #ccc;
+    float: left;
+    padding: 1%;
+}
+
+#cs2{
+    background: #DE8315;
+}
+
+#valorant{
+    background: #F74352;
+}
+
+.game h2{
+    width: 100%;
+    color: #000;
+}
+
+footer{
+    width: 100%;
+    height: 25vh;
+    background: #000;
+}
+
+.skin{
+    background: #fff;
+    float: left;
+    height: 24vh;
+    width: 18%;
+    margin-left: 20px;
+    margin-top: 23px;   
+}
+img{
+    width: 60%;
+    height: auto;
+    margin-left: 7vh;
+}
+h1{
+    text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+p{
+    text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 25px;
+}
